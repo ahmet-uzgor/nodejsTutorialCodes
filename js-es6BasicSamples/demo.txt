@@ -1,0 +1,2 @@
+This will be written on demo.txt
+we will append a new sentence
